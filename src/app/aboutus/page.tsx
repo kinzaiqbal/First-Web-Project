@@ -13,10 +13,10 @@ export default function About() {
           <p className="text-lg text-gray-600 mb-6">
             Welcome to our online teaching platform, where learning meets flexibility. 
             Our mission is to provide personalized education through expert instructors, 
-            helping students achieve their academic and professional goals from anywhere, at any time.
+            helping students achieve their academic and professional goals from anywhere at any time.
           </p>
           <p className="text-lg text-gray-600">
-            Whether you're preparing for exams or learning a new skill, we offer courses designed to fit 
+            Whether you are preparing for exams or learning a new skill, we offer courses designed to fit 
             your needs and schedule. Join us today to start your learning journey!
           </p>
         </div>
